@@ -1,0 +1,1 @@
+E:\Working Progress\FezHat\WindowsIoTCorePi2FezHat\WindowsIoTCorePi2FezHat.csproj;x86
